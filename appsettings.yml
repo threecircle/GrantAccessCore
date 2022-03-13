@@ -1,0 +1,2 @@
+﻿Connections:
+  PostgreSQL: "Host=localhost;Username=admin;Password=admin;Database=grant_access_db"
